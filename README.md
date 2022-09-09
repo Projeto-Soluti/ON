@@ -1,6 +1,7 @@
 # SolutiON
 
 Projeto integrador desenvolvido no bootcamp da [Generation Brasil](https://brazil.generation.org/ ), cujo propósito centra-se na promoção de uma rede estratégica e ágil para pequenos negócios com o objetivo de fortalecer o comércio nacional no rol do mercado financeiro até 2030.
+##
 
 ### ODS 9 - **INDÚSTRIA, INOVAÇÃO E INFRAESTRUTURA**
 Promover uma maior integração das pequenas empresas por meio de uma plataforma de rede social, de modo a construir infraestruturas resilientes e consolidar a inovação inclusiva, em conformidade com os preceitos da ODS 9.
@@ -11,9 +12,9 @@ Tecnologias:
 
 <div style="display: inline_block">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-<img align="center" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 
 ##
