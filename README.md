@@ -4,7 +4,7 @@ Projeto integrador desenvolvido no bootcamp da [Generation Brasil](https://brazi
 ##
 
 ### ODS 9 - **INDÚSTRIA, INOVAÇÃO E INFRAESTRUTURA**
-Promover uma maior integração das pequenas empresas por meio de uma plataforma de rede social, de modo a construir infraestruturas resilientes e consolidar a inovação inclusiva, em conformidade com os preceitos da ODS 9.
+Promover uma maior integração das pequenas empresas por meio de uma plataforma de rede social, de modo a construir infraestruturas resilientes e consolidar a inovação inclusiva, em conformidade com os preceitos da [ODS 9](https://brasil.un.org/pt-br/sdgs/9 ).
 
 
 ## 
