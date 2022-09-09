@@ -8,7 +8,7 @@ Promover uma maior integração das pequenas empresas por meio de uma plataforma
 
 
 ## 
-###Tecnologias:
+### Tecnologias:
 
 <div style="display: inline_block">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
