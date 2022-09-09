@@ -1,6 +1,8 @@
 # SolutiON
 
 ### ODS 9 - **INDÚSTRIA, INOVAÇÃO E INFRAESTRUTURA**
+Promover uma maior integração das pequenas empresas por meio de uma plataforma de rede social, de modo a construir infraestruturas resilientes e fortalecer a inovação inclusiva, em conformidade com os preceitos da ODS 9.
+
 
 ## 
 Tecnologias:
