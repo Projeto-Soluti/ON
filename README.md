@@ -12,8 +12,8 @@ Promover uma maior integração das pequenas empresas por meio de uma plataforma
 
 <div style="display: inline_block">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 
