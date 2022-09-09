@@ -1,6 +1,6 @@
 # SolutiON
 
-Projeto integrador desenvolvido no bootcamp da [Generation Brasil](https://brazil.generation.org/ ), cujo propósito centra-se na promoção de uma rede estratégica e ágil para pequenos negócios com o objetivo de fortalecer o comércio nacional no rol do mercado financeiro até 2030.
+Projeto integrador desenvolvido no bootcamp da [Generation Brasil](https://brazil.generation.org/ ), cujo propósito centra-se na promoção de uma rede estratégica e ágil para pequenos negócios, visando fortalecer o comércio nacional no rol do mercado financeiro até 2030.
 ##
 
 ### ODS 9 - **INDÚSTRIA, INOVAÇÃO E INFRAESTRUTURA**
