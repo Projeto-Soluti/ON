@@ -1,12 +1,6 @@
 # SolutiON
 
-Projeto integrador desenvolvido no bootcamp da [Generation Brasil](https://brazil.generation.org/ ), cujo propósito centra-se na promoção de uma rede estratégica e ágil para pequenos negócios, visando fortalecer o comércio nacional no rol do mercado financeiro até 2030.
-##
-
-### ODS 9 - **INDÚSTRIA, INOVAÇÃO E INFRAESTRUTURA**
-Promover uma maior integração das pequenas empresas por meio de uma plataforma de rede social, de modo a construir infraestruturas resilientes e consolidar a inovação inclusiva, em conformidade com os preceitos da [ODS 9](https://brasil.un.org/pt-br/sdgs/9 ).
-
-
+![Slide1](https://user-images.githubusercontent.com/105940878/189463335-f6568927-750b-44b7-8abb-be84ce5a2172.jpg)
 ## 
 ### Tecnologias:
 
@@ -20,11 +14,13 @@ Promover uma maior integração das pequenas empresas por meio de uma plataforma
 ##
 ### Status:
 
-> :construction: Projeto em construção :construction:
+**:construction: Projeto em construção :construction:**
+
+<img align="center" alt="" height="120" width="150" src="https://user-images.githubusercontent.com/105940878/189463492-3997365e-257d-4418-b7ec-0718c4731b6e.gif">
 
 ##
 
-## **:star2: DESENVOLVEDORES**
+## **👩‍💻 DESENVOLVEDORES 👨‍💻**
 
 <div align=center>
 
