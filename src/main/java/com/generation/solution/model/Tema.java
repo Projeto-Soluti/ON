@@ -12,7 +12,6 @@ import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.generation.solution.model.Postagem;
 
 @Entity
 @Table(name = "tb_tema")
@@ -25,9 +24,9 @@ public class Tema {
 	@NotNull(message = "Entre com o Tema de sua Postagem!")
 	private String descricao;
 	
-	/*@OneToMany(mappedBy = "tema", cascade = CascadeType.REMOVE)
+	@OneToMany(mappedBy = "tema", cascade = CascadeType.REMOVE)
 	@JsonIgnoreProperties("tema")
-	private List<Postagem> postagem;*/
+	private List<Postagem> postagem;
 
 	public Long getId() {
 		return id;
@@ -45,11 +44,11 @@ public class Tema {
 		this.descricao = descricao;
 	}
 
-	/*public List<Postagem> getPostagem() {
+	public List<Postagem> getPostagem() {
 		return postagem;
 	}
 
 	public void setPostagem(List<Postagem> postagem) {
 		this.postagem = postagem;
-	}*/
+	}
 }
