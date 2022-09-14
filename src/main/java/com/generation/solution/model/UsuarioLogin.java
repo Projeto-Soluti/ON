@@ -5,6 +5,7 @@ public class UsuarioLogin {
 	private Long id;
 	private String nome;
 	private String usuario;
+	private String cnpj;
 	private String senha;
 	private String foto;
 	private String token;
@@ -31,6 +32,14 @@ public class UsuarioLogin {
 
 	public void setUsuario(String usuario) {
 		this.usuario = usuario;
+	}
+
+	public String getCnpj() {
+		return cnpj;
+	}
+
+	public void setCnpj(String cnpj) {
+		this.cnpj = cnpj;
 	}
 
 	public String getSenha() {
