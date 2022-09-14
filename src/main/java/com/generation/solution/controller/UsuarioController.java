@@ -20,6 +20,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.generation.solution.model.Usuario;
 import com.generation.solution.model.UsuarioLogin;
 import com.generation.solution.repository.UsuarioRepository;
+import com.generation.solution.service.UsuarioService;
+
 
 @RestController
 @RequestMapping("/usuarios")
@@ -66,5 +68,4 @@ public class UsuarioController {
             .map(resposta -> ResponseEntity.status(HttpStatus.OK).body(resposta))
             .orElse(ResponseEntity.status(HttpStatus.NOT_FOUND).build());
     }
-
 }
