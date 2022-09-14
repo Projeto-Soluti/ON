@@ -45,7 +45,7 @@ import com.generation.solution.repository.PostagemRepository;
 		
 		@GetMapping("/titulo/{titulo}")
 		public ResponseEntity<List<Postagem>> GetByTitulo (@PathVariable String titulo){
-			return ResponseEntity.ok(repository.findAllbyTituloContainingIgnoreCase(titulo));
+			return ResponseEntity.ok(repository.findAllByTituloContainingIgnoreCase(titulo));
 			
 		}
 		
