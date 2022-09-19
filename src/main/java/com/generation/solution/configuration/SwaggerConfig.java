@@ -4,6 +4,7 @@ import org.springdoc.core.customizers.OpenApiCustomiser;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;
 import io.swagger.v3.oas.models.info.Info;
@@ -19,14 +20,17 @@ public class SwaggerConfig {
 		return new OpenAPI()
 				.info(new Info()
 						.title("SolutiON")
-						.description("Projeto Integrador - Generation Brasil" + "\n ODS 9 - ONU")
+						.description("Projeto Integrador - Generation Brasil")
 						.version("v0.0.1")
 					.license(new License()
 							.name("SolutiON")
 							.url("https://github.com/Projeto-Soluti"))
 					.contact(new Contact()
 							.name("SolutiON")
-							.email("onsoluti7@gmail.com")));			
+							.email("onsoluti7@gmail.com")))
+					.externalDocs(new ExternalDocumentation()
+							.description("ODS 9 - ONU")
+							.url("https://brasil.un.org/pt-br/sdgs/9"));
 	}
 	
 	@Bean
