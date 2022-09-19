@@ -18,8 +18,8 @@ public class SwaggerConfig {
 	public OpenAPI springProjetoIntegradorOpenAPI() {
 		return new OpenAPI()
 				.info(new Info()
-						.title("ODS 9 - ONU")
-						.description("Projeto Integrador - Generation Brasil")
+						.title("SolutiON")
+						.description("Projeto Integrador - Generation Brasil" + "\n ODS 9 - ONU")
 						.version("v0.0.1")
 					.license(new License()
 							.name("SolutiON")
