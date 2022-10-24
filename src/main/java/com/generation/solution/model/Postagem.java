@@ -32,7 +32,6 @@ public class Postagem {
     @Size(min = 10, max = 1000, message = "O Atributo texto deve conter no mínimo 10 e no máximo 1000 caracteres")
     private String texto;
 	
-    @Size(max = 5000, message = "O link da foto não pode ser maior do que 5000 caracteres!")
     private String foto;
 	
     @UpdateTimestamp
