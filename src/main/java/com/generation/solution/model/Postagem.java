@@ -32,11 +32,11 @@ public class Postagem {
     @Size(min = 10, max = 1000, message = "O Atributo texto deve conter no mínimo 10 e no máximo 1000 caracteres")
     private String texto;
 	
-    private String foto;
-	
     @UpdateTimestamp
     private LocalDateTime data;
 
+    private String foto;
+	
     @ManyToOne
     @JsonIgnoreProperties("postagem")
     private Tema tema;
