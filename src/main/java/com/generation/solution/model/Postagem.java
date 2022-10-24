@@ -77,6 +77,14 @@ public class Postagem {
     public void setData(LocalDateTime data) {
         this.data = data;
     }
+	
+    public String getFoto() {
+	return foto;
+    }
+
+    public void setFoto(String foto) {
+	this.foto = foto;
+    }	
 
     public Tema getTema() {
         return this.tema;
